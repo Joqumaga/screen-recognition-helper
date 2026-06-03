@@ -1,0 +1,141 @@
+{
+  "regions": [
+    {
+      "id": "6a3b870e",
+      "name": "区域 1",
+      "coords": {
+        "left": 66,
+        "top": 229,
+        "width": 311,
+        "height": 127
+      },
+      "enabled": false,
+      "targets": []
+    },
+    {
+      "id": "8c130de9",
+      "name": "区域 2",
+      "coords": {
+        "left": 101,
+        "top": 232,
+        "width": 205,
+        "height": 212
+      },
+      "enabled": false,
+      "targets": []
+    },
+    {
+      "id": "a9ee6216",
+      "name": "区域 3",
+      "coords": {
+        "left": 128,
+        "top": 90,
+        "width": 121,
+        "height": 41
+      },
+      "enabled": false,
+      "targets": [
+        "可调式或运行"
+      ]
+    },
+    {
+      "id": "96d9afc6",
+      "name": "区域 4",
+      "coords": {
+        "left": 64,
+        "top": 951,
+        "width": 65,
+        "height": 63
+      },
+      "enabled": false,
+      "targets": []
+    },
+    {
+      "id": "de8fd145",
+      "name": "区域 5",
+      "coords": {
+        "left": 1542,
+        "top": 724,
+        "width": 145,
+        "height": 117
+      },
+      "enabled": false,
+      "targets": []
+    },
+    {
+      "id": "33e030d5",
+      "name": "区域 6",
+      "coords": {
+        "left": 1388,
+        "top": 596,
+        "width": 447,
+        "height": 280
+      },
+      "enabled": false,
+      "targets": []
+    },
+    {
+      "id": "f2d2fc6b",
+      "name": "区域 7",
+      "coords": {
+        "left": 1536,
+        "top": 722,
+        "width": 134,
+        "height": 110
+      },
+      "enabled": false,
+      "targets": []
+    },
+    {
+      "id": "5c3793a3",
+      "name": "区域 8",
+      "coords": {
+        "left": 1554,
+        "top": 723,
+        "width": 137,
+        "height": 109
+      },
+      "enabled": false,
+      "targets": []
+    },
+    {
+      "id": "60c56d48",
+      "name": "区域 9",
+      "coords": {
+        "left": 438,
+        "top": 894,
+        "width": 232,
+        "height": 49
+      },
+      "enabled": false,
+      "targets": []
+    },
+    {
+      "id": "911bf9e5",
+      "name": "区域 10",
+      "coords": {
+        "left": 1533,
+        "top": 523,
+        "width": 155,
+        "height": 92
+      },
+      "enabled": false,
+      "targets": []
+    },
+    {
+      "id": "266f653e",
+      "name": "区域 11",
+      "coords": {
+        "left": 121,
+        "top": 913,
+        "width": 188,
+        "height": 54
+      },
+      "enabled": true,
+      "targets": []
+    }
+  ],
+  "targets": [],
+  "scan_interval_ms": 200,
+  "always_on_top": false
+}

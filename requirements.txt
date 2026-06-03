@@ -1,0 +1,21 @@
+# 游戏辅助工具 — Python 依赖
+# 安装命令: pip install -r requirements.txt
+
+# UI 框架
+customtkinter==5.2.2
+
+# OCR 引擎
+pytesseract==0.3.10
+
+# 屏幕截图（高性能）
+mss==9.0.1
+
+# 图像处理
+opencv-python>=4.10.0
+Pillow==10.3.0
+
+# 鼠标控制
+pyautogui==0.9.54
+
+# 打包（开发用）
+pyinstaller==6.7.0
